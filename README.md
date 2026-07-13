@@ -184,8 +184,8 @@
 
         <!-- 外部サイトへ飛ぶボタン（2つ） -->
         <section class="button-container">
-            <a href="https://www.city.saijo.ehime.jp/" class="btn" target="_blank" rel="noopener noreferrer">西条市 公式サイトを見る</a>
-            <a href="https://www.iyokannet.jp/" class="btn" target="_blank" rel="noopener noreferrer">愛媛県観光物産協会サイトを見る</a>
+            <a href=https://ehm-saijo-ah.esnet.ed.jp/" class="btn" target="_blank" rel="noopener noreferrer">西条農業高校</a>
+            <a href=https://www.city.saijo.ehime.jp/" class="btn" target="_blank" rel="noopener noreferrer">石鎚黒茶</a>
         </section>
 
     </div>
