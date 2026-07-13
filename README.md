@@ -166,9 +166,11 @@
         </section>
 
         <!-- 画像表示エリア（大きく表示） -->
-        <section class="image-container">
-            <!-- 実際の画像ファイル名に合わせて src を書き換えてください -->
-            <img src="ishidzuchi_kurocha.jpg" alt="石鎚黒茶のイメージ画像">
+<section class="image-container">
+    <!-- 実際の画像ファイル名（例: ishidzuchi_kurocha.jpg）に合わせて src を書き換えてください -->
+    <img src="https://tsukijiichiba.b-cdn.net/user/images/product/41114.1.jpg" alt="石鎚黒茶のイメージ画像">
+    <div class="image-caption">幻の発酵茶、石鎚黒茶</div>
+</section>
             <div class="image-caption">幻の発酵茶、石鎚黒茶</div>
         </section>
 
